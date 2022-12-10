@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with me:
 
-<a href="https://linkedin.com/in/pwnkdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="pawankadam" /></a> <a href="https://github.com/G-LalithSai" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github" alt="lalith-sai-579147120" /></a>
+<a href="https://linkedin.com/in/pwnkdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="pawankadam" /></a> <a href="https://github.com/Pwnkdm" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github" alt="gitpwnkdm" /></a>
 
 <br/>
  
