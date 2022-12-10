@@ -16,7 +16,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" />
 
 <p align="center">
-<a href="https://linkedin.com/in/pwnkdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaikwadrushi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pwnkdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pwnkdm/" height="30" width="40" /></a>
 
 </p>
 </h2>
