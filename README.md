@@ -1,25 +1,31 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pwnkdm&label=Profile%20views&color=0e75b6&style=flat" alt="rushig777" /> </p>
-<h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"  height="45" width="45" />, I'm Pawanraje Kadam</h1>
-<h4 align="center">An ambitious✌, self-motivated, and well-focused full stack developer👨‍💻 with considerable technical skills😎 who possesses self-discipline and a growth mindset.</h4>
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> , I'm Pawan Kadam
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### <h4 align="center">An ambitious✌, self-motivated, and well-focused full stack developer👨‍💻 with considerable technical skills😎 who possesses self-discipline and a growth mindset. ✨</h4>
 <br/>
 
 
-🌍  I'm based in Pune, Maharashtra
+- 🔭 Intrigued to learn **new technologies** and **learning new skills**.
 
-🌱 I’m currently learning Next.js
+- 👯 I’m looking to collaborate on **OpenSource Projects** and **Innovative Projects**.
 
-💬 Ask me about JavaScript, React.js Express.js,
+- 📫 How to reach me **pawanrajkadam@gmail.com**
 
-📫 Contact me pawanrajkadam@gmail.com
+- 👨‍💻 All of my projects are available [here](https://portfolio-pwnkdm.vercel.app/)
 
-💼 Portfolio https://portfolio-pwnkdm.vercel.app/ 
+- 💬 Connect to me at -  <a href="https://linkedin.com/in/pwnkdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?logo=linkedin" alt="pawankadam" /></a>
+
+<br/>
+
+## 🌐 Connect with me:
+
+<a href="https://linkedin.com/in/pwnkdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="pawankadam" /></a> <a href="https://github.com/G-LalithSai" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github" alt="lalith-sai-579147120" /></a>
+
+<br/>
+ 
 <h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" />
 
-<p align="center">
-<a href="https://linkedin.com/in/pwnkdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pwnkdm/" height="30" width="40" /></a>
-
-</p>
-</h2>
 
 ## 💻 Tech Stack:
 
@@ -47,8 +53,6 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-E54E1E?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-191919?style=for-the-badge&logo=linux)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 ![NPM](https://img.shields.io/badge/-NPM-F44336?style=for-the-badge&logo=npm&logoColor=red)
 ![Yarn](https://img.shields.io/badge/-YARN-03A9F4?style=for-the-badge&logo=yarn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF5722?style=for-the-badge&logo=postman&logoColor=white)
