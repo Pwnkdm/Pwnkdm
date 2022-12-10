@@ -18,10 +18,11 @@
 
 <br/>
 
+[![](https://visitcount.itsvg.in/api?id=Pwnkdm&icon=3&color=8)](https://visitcount.itsvg.in)
+
 ## 🌐 Connect with me:
 
 <a href="https://linkedin.com/in/pwnkdm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="pawankadam" /></a> <a href="https://github.com/Pwnkdm" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github" alt="gitpwnkdm" /></a>
-[![](https://visitcount.itsvg.in/api?id=Pwnkdm&icon=3&color=8)](https://visitcount.itsvg.in)
 <br/>
  
 <h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" />
